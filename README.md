@@ -1,2 +1,2 @@
-# yangji.github.io
+# Web publisher portfolio
 Web publisher Yangji, portfolio site.
