@@ -1,5 +1,0 @@
-body, p, img, div, ul, li, dl, dt, dd, table, tr, th, td, input, select, textarea{
-    border:none; margin:0; padding:0; list-style:none; resize:none; border-collapse:collapse; border-spacing:0;
-}
-h1, h2, h3, h4, h5, h6{ margin:0; padding:0;    }
-a{  text-decoration:none;   }
